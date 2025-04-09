@@ -1,0 +1,1 @@
+# haip-token-asset
